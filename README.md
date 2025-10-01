@@ -46,4 +46,4 @@ Task added.
 
 ## License
 
-This project is provided for learning purposes and does not include a license.
+This project is build for learning purposes and does not include a license.
